@@ -16,4 +16,7 @@ Writing objects: 100% (3/3), 212 bytes | 212.00 KiB/s, done.
 Total 3 (delta 0), reused 0 (delta 0)                                                                                                 
 To https://github.com/{YOUR_USERNAME}/alx-pre_course.git                                                                                       
  * [new branch]      master -> master              
-
+mkdir 0x01-git
+vi README.md
+get add .
+git commit -m "my second commit"
