@@ -1,4 +1,8 @@
-oot@896cf839cf9a:/alx-pre_course# echo 'My first readme' > README.md                                                  
+oot@896cf839cf9a:/alx-pre_course# echo 'My first readme' > README.md  
+
+root@896cf839cf9a:/alx-pre_course# git config --global user.email "aboodaabdoo123@gmail.com"
+root@896cf839cf9a:/alx-pre_course# git config --global user.name "Abdelrahman Abdellatif"
+
 root@896cf839cf9a:/alx-pre_course# cat README.md      
 root@896cf839cf9a:/alx-pre_course# git add .
 root@896cf839cf9a:/alx-pre_course# git commit -m 'My first commit'
